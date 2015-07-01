@@ -11,7 +11,10 @@ An asynchronous wrapper for the [WealthEngine API](http://dev.wealthengine.com/)
 
 The WealthEngine API lets you look up the net worth of almost anyone in the U.S. in real time. Visit [dev.wealthengine.com](http://dev.wealthengine.com) to learn more. 
 
-## Usage
+## Install via npm
+    npm i wealthengine-node-sdk --save 
+
+## Or - Install as a library from GitHub
 
 	//From <your-project-root>/lib/
 	git clone <weapi repo url> we-api 

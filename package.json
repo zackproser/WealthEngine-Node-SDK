@@ -1,0 +1,25 @@
+{
+  "name": "wealthengine-node-sdk",
+  "version": "0.0.2",
+  "description": "An asynchronous wrapper around the public WealthEngine API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zackproser/WealthEngine-Node-SDK.git"
+  },
+  "keywords": [
+    "wealthengine"
+  ],
+  "author": "Zack Proser <zackproser@gmail.com> (http://www.zackproser.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackproser/WealthEngine-Node-SDK/issues"
+  },
+  "homepage": "https://github.com/zackproser/WealthEngine-Node-SDK",
+  "dependencies": {
+    "request": "^2.58.0"
+  }
+}
