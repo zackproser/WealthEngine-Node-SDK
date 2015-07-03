@@ -13,6 +13,13 @@ The WealthEngine API lets you look up the net worth of almost anyone in the U.S.
 
 ## Install via npm
     npm i wealthengine-node-sdk --save 
+    //In your node app - require the sdk
+    var 
+    	WealthEngineSdk = require('wealthengine-node-sdk'), 
+    	WeAPI = new WealthEngineSdk('ddb26e11-9348-4ead-9e2a-5a3b80a01b52')
+	; 
+
+
 
 ## Or - Install as a library from GitHub
 
